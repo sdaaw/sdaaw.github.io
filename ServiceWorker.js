@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PERSONALITY_DILEMMA-1.0";
 const contentToCache = [
     "Build/sdaaw.github.io.loader.js",
-    "Build/sdaaw.github.io.framework.js.br",
-    "Build/sdaaw.github.io.data.br",
-    "Build/sdaaw.github.io.wasm.br",
+    "Build/sdaaw.github.io.framework.js",
+    "Build/sdaaw.github.io.data",
+    "Build/sdaaw.github.io.wasm",
     "TemplateData/style.css"
 
 ];
